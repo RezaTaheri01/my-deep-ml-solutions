@@ -1,2 +1,2 @@
-# my-deepcode-solutions
+# my deep-ml solutions
  
